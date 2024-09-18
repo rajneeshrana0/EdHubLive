@@ -2,14 +2,14 @@ const express = require("express");
 const app = express();
 
 // Example of requiring the './routes/user' module
-const userRoutes = require('./routes/user');
+const userRoutes = require('./routes/User');
 
-const profileRoutes = require("./routes/profile");
-const paymentRoutes = require("./routes/payments");
-const courseRoutes = require("./routes/course");
-const contactUsRoute = require("./routes/contact");
+const profileRoutes = require("./routes/Profile");
+const paymentRoutes = require("./routes/Payments");
+const courseRoutes = require("./routes/Course");
+const contactUsRoute = require("./routes/Contact");
 
-const contactRoutes = require("./routes/contact")
+const contactRoutes = require("./routes/Contact")
 
 const database = require("./config/database");
 const cookieParser = require("cookie-parser");
