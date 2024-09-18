@@ -31,6 +31,7 @@ Here is a high-level diagram illustrating the architecture:
 
 *Add architecture diagram here* (Provide the diagram image)
 
+
 ---
 
 ## 2. Front-end

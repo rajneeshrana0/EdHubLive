@@ -67,7 +67,7 @@ exports.courseEnrollmentEmail = (courseName, name) => {
   
   <body>
       <div class="container">
-          <a href="https://portfolio-six-phi-17.vercel.app/"><img class="logo" src="https://drive.google.com/file/d/1ee3uJkO1qB9jQ6dEeS4IGke15w_WIV64/view?usp=sharing"
+          <a href="https://ed-hub-learn.vercel.app/"><img class="logo" src="https://asset.cloudinary.com/dbn9fwzwk/cf216d996a90bc0f681e82290441f654"
                   alt="EdUniHub Logo"></a>
           <div class="message">Course Registration Confirmation</div>
           <div class="body">
@@ -76,7 +76,7 @@ exports.courseEnrollmentEmail = (courseName, name) => {
                   are excited to have you as a participant!</p>
               <p>Please log in to your learning dashboard to access the course materials and start your learning journey.
               </p>
-              <a class="cta" href="https://portfolio-six-phi-17.vercel.app/dashboard">Go to Dashboard</a>
+              <a class="cta" href="https://ed-hub-learn.vercel.app//dashboard">Go to Dashboard</a>
           </div>
           <div class="support">If you have any questions or need assistance, please feel free to reach out to us at <a
                   href="mailto:info@edunihub.com">info@edunihub.com</a>. We are here to help!</div>

@@ -67,7 +67,7 @@ exports.paymentSuccessEmail = (name, amount, orderId, paymentId) => {
     
     <body>
         <div class="container">
-            <a href="https://portfolio-six-phi-17.vercel.app/"><img class="logo" src="https://drive.google.com/file/d/1ee3uJkO1qB9jQ6dEeS4IGke15w_WIV64/view?usp=sharing"
+            <a href="https://ed-hub-learn.vercel.app/"><img class="logo" src="https://asset.cloudinary.com/dbn9fwzwk/cf216d996a90bc0f681e82290441f654"
                     alt="EdUniHub Logo"></a>
             <div class="message">Course Payment Confirmation</div>
             <div class="body">
