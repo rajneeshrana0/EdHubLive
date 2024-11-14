@@ -44,8 +44,11 @@ function Navbar() {
       } transition-all duration-200`}
     >
       <div className="flex w-11/12 max-w-maxContent items-center justify-between">
-        <Link to="/">
-          <img src={logo} alt="Logo" width={160} height={32} loading="lazy" />
+        <Link to="/" 
+          className "text-white text-2xl font-extrabold"
+          >
+{/*           <img src={logo} alt="Logo" width={160} height={32} loading="lazy" /> */}
+          Study Notion  
         </Link>
         <nav className="hidden md:block">
           <ul className="flex gap-x-6 text-richblack-25">
