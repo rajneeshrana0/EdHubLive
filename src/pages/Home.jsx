@@ -33,7 +33,7 @@ function Home() {
         {/* Heading */}
         <div className="text-center text-4xl font-semibold">
         Mastering College Success with 
-          <HighlightText text={"EdUniHub"} />
+          <HighlightText text={"Study Notion"} />
         </div>
 
         {/* Sub Heading */}
@@ -88,7 +88,7 @@ function Home() {
               active: false,
             }}
             codeColor={"text-yellow-25"}
-            codeblock={`<!DOCTYPE html>\n <html lang="en">\n<head>\n<title>EdUniHub</title>\n</head>\n<body>\n<h1><a href="/">College Subjects</a></h1>\n<nav> <a href="/paper">Previous Year Paper</a> <a href="/quiz">Quiz</a> <a href="/lab">Labs</a>\n</nav>\n</body>`}
+            codeblock={`<!DOCTYPE html>\n <html lang="en">\n<head>\n<title>Study Notion</title>\n</head>\n<body>\n<h1><a href="/">College Subjects</a></h1>\n<nav> <a href="/paper">Previous Year Paper</a> <a href="/quiz">Quiz</a> <a href="/lab">Labs</a>\n</nav>\n</body>`}
             backgroundGradient={<div className="codeblock1 absolute"></div>}
           />
         </div>
@@ -155,7 +155,7 @@ function Home() {
             </div>
             <div className="flex flex-col items-start gap-10 lg:w-[40%]">
               <div className="text-[16px]">
-                The modern EdUniHub is the dictates its own terms. Today, to
+                The modern Study Notion is the dictates its own terms. Today, to
                 be a competitive specialist requires more than professional
                 skills.
               </div>
