@@ -29,9 +29,7 @@ const Footer = () => {
           {/* Section 1 */}
           <div className="lg:w-[50%] flex flex-wrap flex-row justify-between lg:border-r lg:border-richblack-700 pl-3 lg:pr-5 gap-3">
             <div className="w-[30%] flex flex-col gap-3 lg:w-[30%] mb-7 lg:pl-0">
-{/*               <img src={Logo} alt="" className="object-contain" />
-*/}
-              Study Notion
+              <p className="text-white font-bold text-2xl">Study Notion</p>
               <h1 className="text-richblack-50 font-semibold text-[16px]">
                 Company
               </h1>
@@ -172,7 +170,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Made with ❤️ EdUniHub © 2023 EdUniHub</div>
+          <div className="text-center">Made with ❤️ Study Notion © 2023 Study Notion</div>
         </div>
       </div>
     </div>
